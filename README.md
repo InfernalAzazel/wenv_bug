@@ -1,4 +1,4 @@
-<div align="center"><h1>bdba_to_sbom</h1></div>
+<div align="center"><h1>wenv_bug</h1></div>
 
 ## compile help
 ### 1. run compile.py
